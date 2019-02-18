@@ -1,7 +1,7 @@
 <template>
-  <div>
-    コンタクト
-  </div>
+  <v-container>
+    連絡手段なし！！
+  </v-container>
 </template>
 
 <script lang="ts">
