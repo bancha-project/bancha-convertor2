@@ -1,0 +1,11 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint-config-standard"
+  ],
+  "rules": {
+    "prefer-const": true,
+    "trailing-comma": true,
+    "space-before-function-paren": false
+  }
+}
