@@ -1,7 +1,9 @@
 <template>
-  <div>
-    Base64
-  </div>
+  <v-container>
+    <v-alert :value="true" type="warning">
+      まだできてないぴょん
+    </v-alert>
+  </v-container>
 </template>
 
 <script lang="ts">

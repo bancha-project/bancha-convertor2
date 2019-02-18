@@ -1,5 +1,5 @@
 <template>
-  <v-footer color="grey" app>
-    <span class="white--text">&copy; 2019 Bancha Project</span>
+  <v-footer color="indigo lighten-5" app>
+    <span>&copy; 2019 Bancha Project</span>
   </v-footer>
 </template>
