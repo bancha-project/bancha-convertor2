@@ -44,6 +44,7 @@
       { name: 'Base64', uri: '/base64', icon: 'edit' },
       { name: 'Case', uri: '/case', icon: 'edit' },
       { name: '設定ファイル', uri: '/config', icon: 'edit' },
+      { name: '癒し', uri: '/healing', icon: 'sentiment_satisfied' },
     ]
 
     private subPages = [
