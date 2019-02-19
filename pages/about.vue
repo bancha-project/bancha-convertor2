@@ -9,8 +9,8 @@
       </v-card-title>
 
       <v-card-actions>
-        <v-btn flat color="orange">あひゃえもんのページ</v-btn>
-        <v-btn flat color="orange">Git Hub</v-btn>
+        <v-btn flat color="orange" @click="jump('http://ahyaemon.matrix.jp')">あひゃえもんのページ</v-btn>
+        <v-btn flat color="orange" @click="jump('https://github.com/ahyaemon')">Git Hub</v-btn>
       </v-card-actions>
     </v-card>
   </v-container>
@@ -25,5 +25,13 @@
     }
   })
   export default class About extends Vue {
+    private jump(url: string) {
+      window.open(url)
+    }
+
+    // tslint対策
+    public _() {
+      this.jump('')
+    }
   }
 </script>
