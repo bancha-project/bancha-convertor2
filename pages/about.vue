@@ -4,7 +4,7 @@
       <v-card-title primary-title>
         <div>
           <h3 class="headline mb-0">あひゃえもん</h3>
-          <div>Composer</div>
+          <div>Composer / Programmer</div>
         </div>
       </v-card-title>
 
