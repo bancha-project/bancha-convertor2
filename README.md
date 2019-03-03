@@ -1,3 +1,14 @@
+# bancha-convertor
+いろいろ変換する。
+
+https://bancha-project.github.io/bancha-convertor2/
+
+
+## 使用技術
+- nuxt
+- vuetify
+  - spaモード
+
 ## pageの追加
 1. pagesディレクトリ以下に.vueファイルを作成する
 1. components.navにアイテムを追加する
@@ -23,6 +34,18 @@ yarn start
 yarn generate
 ```
 
+
+## github pages
+sourcesブランチが更新されると、travisが検知してビルド結果をmasterブランチにデプロイする。
+（開発はsourcesブランチから新規ブランチを切って行い、プルリクを出す）
+
+github pagesはmasterブランチを見るようになっているため、これでデプロイが完了する。
+
+https://evansalter.com/blog/github-pages-and-single-page-apps/
+
+travisはここ。
+
+https://travis-ci.com/bancha-project/bancha-convertor2
 
 ## 参考
 ### nuxt
