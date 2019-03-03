@@ -4,6 +4,8 @@
 https://bancha-project.github.io/bancha-convertor2/
 
 
+[![Build Status](https://travis-ci.com/bancha-project/bancha-convertor2.svg?branch=sources)](https://travis-ci.com/bancha-project/bancha-convertor2)
+
 ## 使用技術
 - nuxt
 - vuetify
