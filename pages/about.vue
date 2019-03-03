@@ -3,6 +3,9 @@
     <v-card>
       <v-card-title primary-title>
         <div>
+          <v-avatar :size="avatarSize" color="grey lighten-4">
+            <img src="https://avatars0.githubusercontent.com/u/41217418?s=400&v=4" alt="avatar">
+          </v-avatar>
           <h3 class="headline mb-0">あひゃえもん</h3>
           <div>Composer / Programmer</div>
         </div>
