@@ -43,7 +43,7 @@
       { name: 'SQL', uri: '/sql', icon: 'edit' },
       { name: 'Base64', uri: '/base64', icon: 'edit' },
       { name: 'Case', uri: '/case', icon: 'edit' },
-      { name: '設定ファイル', uri: '/config', icon: 'edit' },
+      { name: 'json - yaml', uri: '/json-yaml', icon: 'edit' },
       { name: '癒し', uri: '/healing', icon: 'sentiment_satisfied' },
     ]
 
