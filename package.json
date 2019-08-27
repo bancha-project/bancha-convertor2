@@ -5,7 +5,7 @@
     "@nuxtjs/vuetify": "^0.5.5",
     "js-yaml": "^3.13.1",
     "nuxt-ts": "latest",
-    "vue-property-decorator": "^7.3.0"
+    "vue-property-decorator": "^8.2.2"
   },
   "scripts": {
     "dev": "nuxt-ts",
