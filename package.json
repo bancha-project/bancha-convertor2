@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@nuxtjs/vuetify": "^0.5.5",
+    "@nuxtjs/vuetify": "^1.6.1",
     "js-yaml": "^3.13.1",
     "nuxt-ts": "latest",
     "vue-property-decorator": "^7.3.0"
